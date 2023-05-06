@@ -1,0 +1,21 @@
+﻿.container 
+{
+    background:url(images/img2.jpg)
+}
+h2
+{background-image:url(images/sidebar-top.png);
+
+}
+.title
+{float:right;
+}
+img
+{
+    width:90px;
+    height:90px;
+}
+.back
+{float:left;
+}
+
+

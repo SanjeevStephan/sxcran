@@ -1,0 +1,109 @@
+<<!DOCTYPE html>
+<html>
+<head>
+<title>B.A History(2016-19 AD)</title>
+<meta name="author" content="Sanjeev Stephan Murmu" />
+<meta name="keywords" content="CV,CVI,CVII" />
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,mimimum-scale=1,user-scalable=no" />
+<!-- <link href="style/style.css" rel="stylesheet"/> -->
+<!---------------------------------------Bootstrap------------------------------->
+<!-- <link href="css/bootstrap.css" rel="stylesheet"/> -->
+<link href="assets/css/bootstrap.min.css" rel="stylesheet"/>
+<!---------------------------------------Bootstrap------------------------------->
+<!---------------------------------------Bootstrap for breadcrumb navigation------------------------------->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"> 
+<!-- sticky sidebar stylesheet -->
+<link href="assets/mystyle/1-apps-sticky-sidebar-with-bootstrap-4.css" rel="stylesheet" />
+<!-- <link href="sxcran_myassets/css/1-apps-sticky-sidebar-with-bootstrap-4.css" rel="stylesheet" /> -->
+<link href="assets/mystyle/change-background-img.css" rel="stylesheet" /> <!-- background img is here -->
+<style type="text/css" ></style>
+<script src="assets/autoscript/model_script_apps.js"></script>
+<script src="assets/autoscript/model_script_ebook.js"></script> 
+<script src="assets/autoscript/model_script_syllabus.js"></script>  
+<script src="assets/autoscript/model_script_previous_years_ques_papers.js"></script>
+</head>
+
+<body>
+
+    <div class="container white">
+    <div class="container-fluid">
+    
+    <!-- stick sidebar -->
+
+    <article>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col">
+                <!-- Breadcrumb Navigation begins--><div id="id_breadcrumb_nav"></div><!-- Breadcrumb Navigation ends-->
+                <div class="title-section">
+                    <center class="btn-lg"><img src="assets/imgs/sxcran_logo.png"/><br /><p>B.A History(2016-19)</p></center>
+                </div>  <!-- ./title-section -->
+            </div> <!-- ./col ends -->
+        </div> <!-- ./row ends -->
+
+
+        <div class="row">
+            <div class="col-10">
+
+                <div class="content-section">
+                    <!-- content-section ---------------------------->
+ <!-- ------------------------------------ Semester  I ----------------------------->
+                        <div id="demo">
+
+                        <table class="table" id="id_sem_i">
+                        <th>S.no</th>
+                        <th>Title</th>
+                        <th></th>
+                        <tr><td>1.</td><td>Apps</td><td><a onclick="loadApps()" href="#" class="btn btn-danger">Open</a></td></tr>
+                        <tr><td>2.</td><td>Ebooks</td><td><a onclick="loadEbooks()" href="#" class="btn btn-danger">Open</a></td></tr>
+                        <tr><td>3.</td><td>Notes</td><td><a href="index.html" class="btn btn-danger">Open</a></td></tr>      
+                        <tr><td>4.</td><td>Questions Papers </td><td><a onclick="loadQues()" href="#" class="btn btn-danger">Open</a></td></tr>   
+                        <tr><td>5.</td><td>Syllabus </td><td><a onclick="loadSyllabus()" href="#" class="btn btn-danger">Open</a></td></tr>   
+                        <tr><td>6.</td><td>Results </td><td><a href="#" class="btn btn-danger">Open</a></td></tr>   
+                        </table>
+
+
+                        </div>
+
+                    	<div id="syllabus_lists"></div> 
+                        <div id="id_ques_paper_list"></div>
+                       <script src="assets/autoscript/list_script_apps.js"></script>
+                       <script src="assets/autoscript/list_script_ebook.js"></script>
+                       <script src="assets/autoscript/list_script_syllabus.js"></script>
+                       <script src="assets/autoscript/list_script_previous_years_ques_papers.js" ></script>
+        
+                    <!-- content ends -------------------------------->
+                </div> <!-- ./content-section ends -->
+            </div>
+            <div class="col-2">
+
+              <div class="sidebar-item">
+                <div class="make-me-sticky">
+                    <!-- semester navigation list goes on here ---->
+                    <ul class="list-group">
+                        <a href="../../../index.html"> <li class="list-group-item">StephanPC</li></a>
+                        <a href="index.html">     <li class="list-group-item active">Home</li></a>
+                        <a onclick="loadApps()"> <li class="list-group-item">Apps</li></a>
+                        <a onclick="loadEbooks()"><li class="list-group-item">Ebooks</li></a>
+                        <a href="#"><li class="list-group-item">Notes</li></a>
+                        <a onclick="loadQues()">  <li class="list-group-item">Questions</li></a>
+                        <a onclick="loadSyllabus()"><li class="list-group-item ">Syllabus</li></a>
+                        <!-- <a href="6-void.html"><li class="list-group-item">Void</li></a> -->
+                    </ul>
+                    <!-- semester navigation list ends on here ---->
+                    <br />
+                    
+                </div>
+              </div>
+          
+
+            </div>
+        </div>
+    </div>
+</article>
+      
+</div> <!-- ./container-fluid ends -->
+</div>
+<script src="assets/the-index-script.js" ></script>
+</body>
+</html>

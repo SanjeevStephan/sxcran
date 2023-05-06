@@ -1,0 +1,47 @@
+ Volume in drive D is Stephanware
+ Volume Serial Number is D2E4-0501
+
+ Directory of D:\WPSites\apache2\htdocs\sxcran\syllabus
+
+10/19/2021  01:52 AM    <DIR>          .
+10/19/2021  01:52 AM    <DIR>          ..
+10/16/2021  09:35 PM    <DIR>          css
+10/19/2021  01:52 AM                 0 dir_text.txt
+10/14/2021  06:24 PM             4,665 old-Paper-16-History-S01-HISCC410.html
+Paper-01-History-S01-HISCC101.html
+Paper-02-History-S01-HISCC102.html
+Paper-03-History-S01-ENGAEC01.html
+Paper-04-History-S01-HISGE01.html
+Paper-05-History-S02-HISCC203.html
+Paper-06-History-S02-HISCC204.html
+Paper-07-History-S02-EVSAEC01.html
+Paper-08-History-S02-HISGE02.html
+Paper-09-History-S03-HISCC305.html
+Paper-10-History-S03-HISCC306.html
+Paper-11-History-S03-HISCC307.html
+Paper-12-History-S03-HISEC01.html
+Paper-13-History-S03-HISGE03.html
+Paper-14-History-S04-HISCC408.html
+Paper-15-History-S04-HISCC409.html
+Paper-16-History-S04-HISCC410.html
+Paper-17-History-S04-HISEC02.html
+Paper-18-History-S04-HISGE04.html
+Paper-19-History-S05-HISCC511.html
+Paper-20-History-S05-HISCC512.html
+Paper-21-History-S05-HISDSEC01.html
+Paper-22-History-S05-HISDSEC02.html
+Paper-23-History-S06-HISCC613.html
+Paper-24-History-S06-HISCC614.html
+Paper-25-History-S06-HISDSE03.html
+Paper-26-History-S06-HISDSE04.html
+10/16/2021  08:22 PM             2,930 syllabus_ciii.html
+10/14/2021  05:41 PM             2,928 syllabus_civ.html
+10/06/2021  06:04 PM             3,197 syllabus_cv.html
+10/14/2021  05:41 PM             2,934 syllabus_cvi.html
+10/06/2021  06:04 PM             3,824 syllabus_cvii.html
+10/06/2021  06:04 PM             2,847 syllabus_ge1_evs.html
+10/06/2021  06:04 PM             3,925 syllabus_sec1_museums.html
+10/06/2021  06:03 PM             3,470 World_History.html
+10/06/2021  06:04 PM               305 world_map.html
+              37 File(s)        444,806 bytes
+               3 Dir(s)  145,991,573,504 bytes free
