@@ -1,0 +1,112 @@
+body
+  { background-color:white;
+    margin-top:25px;
+/*  background-color:#ffb3d9;
+*/
+   }
+p
+    {
+        margin:0;
+    }
+    .challanID_label
+    {
+        background-color:black;
+        color:white;
+    }
+    hr
+    {
+        width:300px;
+        float:left;
+		padding-bottom:-1px;
+		padding-top:0px;
+        border-color:black;
+    }
+    .tab
+    {
+        width:300px;
+        border:hidden;
+    }
+    .footer
+    {
+        margin-top:130px;
+    }
+    .sign
+    {
+        float:right;
+    }
+    fieldset
+    {
+        width:140px;
+        border-color:black;
+    }
+    .smalltext
+    {
+        font-size:12px;
+    }
+    .desc
+    {
+        font-size:12px;
+        background-color:gray;
+    }
+    .left
+    {
+        float:left;
+    }
+	.receivedfrom
+	{ /*width:100px; */
+	}
+    .bar
+    {
+        height:750px;
+    }
+    .right
+    {float:right;
+    }
+    .m90
+    {
+        margin-left:60px;
+    }
+    .m60
+    {
+        margin-left:05px;
+    }
+    .logo
+    {
+        width:45px;
+        height:50px;
+    }
+  .box
+   { 
+   background-color:white;
+   width:400px;
+    }
+   #white
+  { background-color:white;
+    width:300px;
+   }
+
+
+/* Drop down button */
+.dropbtn
+{background-color:#4CAF50;
+ color:white;
+padding:10px;
+font-size:20px;
+border:none;
+cursor:pointer;
+}
+
+/* The container div neeeded to position the dropdown content */
+.dropdown
+{position:relative;
+display:inline-block;
+}
+
+.dropdown-content
+{display:none;
+position:absolute;
+background-color:#f9f9f9;
+min-width:160px;
+box-shadow :0px 8px 16px 0px rgba(0,0,0.2);
+z-index:1;
+}
